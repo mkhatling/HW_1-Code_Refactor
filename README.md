@@ -10,4 +10,4 @@ I started by going through the HTML and seeing which semantic elements made sens
 Doing this refactor helped me to see the importance on semantic html and how to use semantic tags appropriately. It also helped me sythesize the material I've learned thus far on html to understand how to set up a website that makes logical sense. 
 ## Usage
 
-    ![digital marketing meeting](assets/images/digital-marketing-meeting.jpg)
+![digital marketing meeting](assets/images/digital-marketing-meeting.jpg)
